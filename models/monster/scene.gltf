@@ -1,0 +1,614 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 781,
+      "max": [
+        33.74633026123047,
+        34.92407989501953,
+        22.17527961730957
+      ],
+      "min": [
+        -33.74633026123047,
+        -35.844635009765625,
+        -10.514254570007324
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 9372,
+      "componentType": 5126,
+      "count": 781,
+      "max": [
+        0.9950162172317505,
+        0.9976796507835388,
+        0.9999998807907104
+      ],
+      "min": [
+        -0.9950162172317505,
+        -1.0,
+        -0.9926388263702393
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 781,
+      "max": [
+        0.9999977350234985,
+        0.9802488088607788,
+        0.9992636442184448,
+        1.0
+      ],
+      "min": [
+        -0.9999977350234985,
+        -0.994364321231842,
+        -0.9994693994522095,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 781,
+      "max": [
+        0.9823994040489197,
+        0.98521488904953
+      ],
+      "min": [
+        0.014177568256855011,
+        0.041465744376182556
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 3120,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 18744,
+      "componentType": 5126,
+      "count": 838,
+      "max": [
+        30.805492401123047,
+        27.299331665039063,
+        11.36239242553711
+      ],
+      "min": [
+        -30.805492401123047,
+        -25.309879302978516,
+        -10.563084602355957
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 28800,
+      "componentType": 5126,
+      "count": 838,
+      "max": [
+        0.9950576424598694,
+        0.9999116063117981,
+        0.9999502897262573
+      ],
+      "min": [
+        -0.9950576424598694,
+        -0.999881386756897,
+        -0.9988793134689331
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 12496,
+      "componentType": 5126,
+      "count": 838,
+      "max": [
+        1.0,
+        0.9946656227111816,
+        0.9987529516220093,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9977911710739136,
+        -0.9990898370742798,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 6248,
+      "componentType": 5126,
+      "count": 838,
+      "max": [
+        0.9856587648391724,
+        0.9704355001449585
+      ],
+      "min": [
+        0.3242291212081909,
+        0.0107724042609334
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12480,
+      "componentType": 5125,
+      "count": 1998,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 38856,
+      "componentType": 5126,
+      "count": 47,
+      "max": [
+        1.6887284517288208,
+        1.5719667673110962,
+        81.96382141113281
+      ],
+      "min": [
+        -3.8246843814849854,
+        -1.5719666481018066,
+        -1.0452842712402344
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 39420,
+      "componentType": 5126,
+      "count": 47,
+      "max": [
+        0.9999987483024597,
+        0.9999920725822449,
+        0.07894359529018402
+      ],
+      "min": [
+        -0.9999920725822449,
+        -0.9999839067459106,
+        -0.9969496130943298
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 25904,
+      "componentType": 5126,
+      "count": 47,
+      "max": [
+        0.9999719262123108,
+        0.9999999403953552,
+        0.09790689498186111,
+        1.0
+      ],
+      "min": [
+        -0.9999415278434753,
+        -1.0,
+        -0.02339053340256214,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 12952,
+      "componentType": 5126,
+      "count": 47,
+      "max": [
+        0.7251835465431213,
+        0.9703739285469055
+      ],
+      "min": [
+        0.5276973843574524,
+        0.3417598009109497
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 20472,
+      "componentType": 5125,
+      "count": 84,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Igor Kulikov (https://sketchfab.com/shuntup)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/demon-7d12e150e9b04e6a8d87960fa0fcca4d",
+      "title": "Demon"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 20808,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 13328,
+      "byteOffset": 20808,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 39984,
+      "byteOffset": 34136,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 26656,
+      "byteOffset": 74120,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 100776,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/demon_1_baseColor.png"
+    },
+    {
+      "uri": "textures/demon_1_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/demon_1_normal.png"
+    },
+    {
+      "uri": "textures/demon_2_baseColor.png"
+    },
+    {
+      "uri": "textures/demon_2_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/demon_2_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "demon_1",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "demon_2",
+      "normalTexture": {
+        "index": 5
+      },
+      "occlusionTexture": {
+        "index": 4
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 4
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "demon_low_demon_1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "armor_low_demon_2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "spear_low001_demon_2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "demon_s.FBX"
+    },
+    {
+      "children": [
+        3,
+        6,
+        9
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.9999999999999867,
+        1.6292068494294582e-07,
+        0.0,
+        0.0,
+        -1.6292068494294582e-07,
+        0.9999999999999867,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "demon_low"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        -0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        35.844635009765625,
+        -5.8398322835273575e-06,
+        1.0
+      ],
+      "name": "Object_4"
+    },
+    {
+      "mesh": 0,
+      "name": "demon_low_demon_1_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.9999999999999867,
+        1.6292068494294582e-07,
+        0.0,
+        0.0,
+        -1.6292068494294582e-07,
+        0.9999999999999867,
+        0.0,
+        0.0,
+        -2.2737367544323206e-13,
+        0.0,
+        1.0
+      ],
+      "name": "armor_low"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        -0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        35.844635009765625,
+        -5.8398322835273575e-06,
+        1.0
+      ],
+      "name": "Object_7"
+    },
+    {
+      "mesh": 1,
+      "name": "armor_low_demon_2_0"
+    },
+    {
+      "children": [
+        10
+      ],
+      "matrix": [
+        -1.4950176208117227e-08,
+        -0.9396926168497417,
+        0.34202015414019743,
+        0.0,
+        0.9999999999999991,
+        1.1102230246251565e-16,
+        4.371138978553901e-08,
+        0.0,
+        -4.107527029617586e-08,
+        0.34202015414019776,
+        0.9396926168497408,
+        0.0,
+        30.064199447631836,
+        19.360639572143555,
+        -16.864593505859375,
+        1.0
+      ],
+      "name": "spear_low001"
+    },
+    {
+      "mesh": 2,
+      "name": "spear_low001_demon_2_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    }
+  ]
+}
